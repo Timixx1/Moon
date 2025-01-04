@@ -14,13 +14,13 @@ USDT(Network-TRC20): TWJi6b8xVR8U28CDkaa6K8a9DBSLvvRURy
 
 USDC(Network-SOL):  45ncvKN8oRBqowfz7SpGuHfLzemHLh27fgzv9Gmtcx64
 
+I made this executor by myself and i will appreciate your donations and support
+
 Features
 -
 Fast Execution
 
 Supporting Roblox Editor
-
-I made this executor by myself and i will appreciate your donations and support
 
 Executor Made on C#
 
