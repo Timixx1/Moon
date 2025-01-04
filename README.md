@@ -12,7 +12,7 @@ Bitcoin(Network-BTC): 1MDkuiNijQd1evQgrCrsMVvNoaQ1z4peJc
 
 USDT(Network-TRC20): TWJi6b8xVR8U28CDkaa6K8a9DBSLvvRURy
 
-USDC(Netwwork-SOL):  45ncvKN8oRBqowfz7SpGuHfLzemHLh27fgzv9Gmtcx64
+USDC(Network-SOL):  45ncvKN8oRBqowfz7SpGuHfLzemHLh27fgzv9Gmtcx64
 
 Features
 -
